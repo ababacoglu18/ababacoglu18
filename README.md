@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
-<h3 align="center">A passionate Game, Web and Mobile Technologies</h3>
+<h3 align="center">Passionate to Game, Web and Mobile Technologies</h3>
 
 
 <img align="center" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.Js**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Unreal Engine5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
