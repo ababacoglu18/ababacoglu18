@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
 <h3 align="center">A passionate Game, Web and Mobile Technologies</h3>
+<img src="[https://www.example.com/resim.jpg](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
+
+
 
 - 🌱 I’m currently learning **JavaScript, React.Js**
 
