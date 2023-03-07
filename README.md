@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game, Web and Mobile Technologies</h3>
 
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 
