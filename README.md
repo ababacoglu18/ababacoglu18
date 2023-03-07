@@ -2,7 +2,7 @@
 <h3 align="center">Passionate to Game, Web and Mobile Technologies</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 
