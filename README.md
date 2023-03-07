@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
+<h2 align="center">Passionate to Game, Web and Mobile Technologies</h2>
 <br><br>
-<h3 align="center">Passionate to Game, Web and Mobile Technologies</h3>
+
 
 
 <img align="right" alt="Coding"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
