@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="Coding"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="500px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 
