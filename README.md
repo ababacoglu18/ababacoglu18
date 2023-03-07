@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
+<br><br>
 <h3 align="center">Passionate to Game, Web and Mobile Technologies</h3>
 
 
