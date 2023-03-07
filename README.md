@@ -35,6 +35,14 @@
     <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ababacoglu18&" alt="ababacoglu18" /></td>
   </tr>
 </table>
+<br/>
+<p align="left">
+  <a href="https://github.com/ababacoglu18">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ababacoglu18&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ababacoglu18&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
 
 ![snake gif](https://github.com/ababacoglu18/ababacoglu18/blob/output/github-contribution-grid-snake.gif)
