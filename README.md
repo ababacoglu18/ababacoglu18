@@ -3,6 +3,7 @@
 
 
 <img src="[[[https://www.example.com/resim.jpg](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://media.tenor.com/qJ5evVs-_uUAAAAC/cod)](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif")
 
 
 
