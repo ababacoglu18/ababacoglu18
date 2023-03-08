@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Altan</h1>
+<h1 align="center">Hello There!, I'm Altan</h1>
 <h2 align="center">Passionate to Game, Web and Mobile Technologies</h2>
 <br><br>
 
